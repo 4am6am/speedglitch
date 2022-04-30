@@ -1,7 +1,7 @@
 -- Remember, no skidding B)
 if Drawing then else return print("get a better executor lol") end
 cred = Drawing.new("Text")
-cred.Text = ("Fake Macro Speed Glitch Executed\nCreated by vampanese#0001 | https://discord.gg/Cvq7ZU5TTR\nMake sure to turn on Low GFX")
+cred.Text = ("")
 cred.Color = Color3.new(1, 1, 1)
 cred.OutlineColor = Color3.new(0, 0, 0)
 cred.Center = true
